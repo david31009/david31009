@@ -5,10 +5,10 @@
 - 📫 Reach me: david31009@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=david31009" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=david31009" height="180" width="40%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david31009&layout=compact" height="195"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david31009&layout=compact" height="180" width="40%"/>
 </a>
 
 ### Hot projects
