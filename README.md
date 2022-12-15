@@ -4,12 +4,9 @@
 - 🖥️ I’m currently learning **Node.js**, **Express**, **JavaScript**, **HTML**, **CSS**, **AWS cloud service**... etc
 - 📫 Reach me: david31009@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=david31009" height="170"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david31009&layout=compact" height="170"/>
-</a>
+| <a href="https://github.com/david31009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=david31009&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="David's github stats" /></a> | <a href="https://github.com/david31009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david31009&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ### Hot projects
 
