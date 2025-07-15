@@ -10,4 +10,4 @@
 
 ### Hot projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=david31009&repo=playone-volleyball)](https://github.com/david31009/playone-volleyball)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=david31009&repo=david31009.github.io)](https://github.com/david31009/david31009.github.io)
